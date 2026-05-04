@@ -1,7 +1,7 @@
 🔗 [Checkout the live demo](https://hirecrux-pdikb.puter.site)
 
-<img width="16" height="16" alt="WhaleDockerGIF" src="https://github.com/user-attachments/assets/10df25a1-facb-4e46-a947-058465528dcc" />
-  Running with Docker
+
+Running with Docker 🐳
 
 1. Build the image
    docker build -t ai-resume-analyzer .

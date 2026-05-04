@@ -1,6 +1,6 @@
 🔗 [Checkout the live demo](https://hirecrux-pdikb.puter.site)
 
-##<img width="400" height="400" alt="WhaleDockerGIF" src="https://github.com/user-attachments/assets/10df25a1-facb-4e46-a947-058465528dcc" />
+##<img width="40" height="40" alt="WhaleDockerGIF" src="https://github.com/user-attachments/assets/10df25a1-facb-4e46-a947-058465528dcc" />
  Running with Docker
 
 1. Build the image

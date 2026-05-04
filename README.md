@@ -4,9 +4,9 @@
 Running with Docker 🐳
 
 1. Build the image
-   docker build -t ai-resume-analyzer .
+   docker build -t Hirecrux .
 
 2. Run the container
-   docker run -p 3000:80 ai-resume-analyzer
+   docker run -p 3000:80 Hirecrux
 
 3. Open http://localhost:3000
